@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 30px; font-weight: bold" >⚡ Anderson Santos<p>
+<p align="center" style="font-size: 60px; font-weight: bold" >⚡ Anderson Santos<p>
 
 <br>
 
@@ -19,7 +19,6 @@
   </div>
 </div>
 
-<br>
 <br>
 <br>
 
